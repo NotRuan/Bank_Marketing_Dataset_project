@@ -30,8 +30,7 @@ O modelo relacional foi desenvolvido para organizar os dados de forma eficiente,
 | Ferramenta | Finalidade |
 |------------|-----------|
 | **PostgreSQL** | Consultas SQL e extração de métricas |
-| **Python** | Manipulação e transformação de dados |
-| **Power BI** | Visualização e dashboards interativos |
+| **SQL** | Manipulação e transformação de dados |
 
 ---
 
@@ -75,62 +74,6 @@ O modelo relacional foi desenvolvido para organizar os dados de forma eficiente,
 - [ ] Ranking dos **top 10 clientes** com maior potencial de conversão
 - [ ] Existe um **perfil de baixíssimo retorno** que deve ser evitado em futuras campanhas?
 
----
-
-## 📁 Estrutura do Repositório
-
-```
-📦 bank-marketing-analysis
-├── 📂 data/              # Datasets originais e processados
-├── 📂 sql/               # Scripts SQL para análise
-├── 📂 notebooks/         # Jupyter notebooks para análise exploratória
-├── 📂 visualizations/    # Dashboards e gráficos
-├── 📂 docs/              # Documentação adicional
-│   └── BD - Diagrama.png
-└── README.md
-```
-
----
-
-## 🚀 Como Utilizar
-
-### Pré-requisitos
-
-- PostgreSQL 12+
-- Python 3.8+
-- Power BI Desktop
-
-### Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/bank-marketing-analysis.git
-
-# Entre no diretório
-cd bank-marketing-analysis
-
-# Instale as dependências Python
-pip install -r requirements.txt
-```
-
-### Executar Análises SQL
-
-```sql
--- Conecte-se ao PostgreSQL e execute os scripts
-psql -U seu_usuario -d bank_marketing -f sql/queries.sql
-```
-
----
-
-## 📊 Resultados Esperados
-
-- **Dashboard interativo** com principais KPIs das campanhas
-- **Relatório de perfis** de clientes de alto e baixo potencial
-- **Recomendações estratégicas** para otimização de campanhas futuras
-- **Modelos preditivos** (opcional) para scoring de clientes
-
----
-
 ## 👥 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
@@ -142,19 +85,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## 📧 Contato
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu-email@example.com
-
+- GitHub: [@NotRuan]([https://github.com/seu-usuario](https://github.com/NotRuan))
+- LinkedIn: [Ruan Gabriel Gomes da Silva]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ruan-gabriel-gomes-da-silva-b4519b20a/))
+- Email: gomesruangabriel@gmail.com
 ---
 
 <div align="center">
