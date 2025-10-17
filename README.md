@@ -1,14 +1,5 @@
 # 🏦 Análise de Dados - Bank Marketing Dataset
 
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-</div>
-
 ## 📋 Sobre o Projeto
 
 Este projeto apresenta uma análise completa de campanhas de marketing bancário, utilizando o **Bank Marketing Dataset**. O foco está em compreender o comportamento dos clientes, identificar perfis com maior propensão à conversão e extrair insights estratégicos para otimizar futuras campanhas de depósito a prazo.
