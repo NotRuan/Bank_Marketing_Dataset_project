@@ -19,7 +19,7 @@ O modelo relacional foi desenvolvido para organizar os dados de forma eficiente,
 
 **Diagrama Entidade-Relacionamento:**
 
-![Modelo Relacional](C:\Users\ruani\OneDrive\Documentos\Projeto - Bank Marketing Dataset\BD - Diagrama.png)
+<img width="1237" height="863" alt="Image" src="https://github.com/user-attachments/assets/efbeb4c8-eade-42bc-aaba-8590e94da89c" />
 
 > 💡 O diagrama ilustra as conexões entre as tabelas através de chaves primárias e estrangeiras, facilitando o entendimento da estrutura de dados.
 
